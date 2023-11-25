@@ -13,5 +13,9 @@
     "@astrojs/tailwind": "^5.0.0",
     "astro": "^3.0.7",
     "tailwindcss": "^3.3.3"
-  }
+  },
+  "description": "<h1>AgenceX Landing page</h1>",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
